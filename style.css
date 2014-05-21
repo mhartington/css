@@ -1,12 +1,10 @@
-*{
+* {
   font-weight: 100 !important;
 }
-html,body{
-  font-size: 16px;
-  
+html,
+body {
+  font-size: 16px !important;
 }
-
-
 select,
 input[type="date"],
 input[type="datetime"],
@@ -20,69 +18,67 @@ input[type="tel"],
 input[type="text"],
 input[type="time"],
 input[type="url"],
-input[type="week"]
-{
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-background-clip: padding;
-  -moz-background-clip: padding;
-  background-clip: padding-box;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  -ms-border-radius: 10px;
-  -o-border-radius: 10px;
-  border-radius: 10px;
-  -webkit-appearance: none;
-  background-color: #fff;
-  color: #000;
-  outline: 0;
-  margin: 0;
-  padding: 0;
-  text-align: left;
-  font-size: 1em;
-  height: 1em;
-  vertical-align: middle;
-  padding: 10px;
+input[type="week"] {
+  -webkit-box-sizing: border-box !important;
+  -moz-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+  -webkit-background-clip: padding !important;
+  -moz-background-clip: padding !important;
+  background-clip: padding-box !important;
+  -webkit-border-radius: 10px !important;
+  -moz-border-radius: 10px !important;
+  -ms-border-radius: 10px !important;
+  -o-border-radius: 10px !important;
+  border-radius: 10px !important;
+  -webkit-appearance: none !important;
+  background-color: #fff !important;
+  color: #000 !important;
+  outline: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: left !important;
+  font-size: 1em !important;
+  height: 1em !important;
+  vertical-align: middle !important;
+  padding: 10px !important;
 }
 select,
 select,
 select {
   background: #fff url(data:image/png;base64,R0lGODlhDQAEAIAAAAAAAP8A/yH5BAEHAAEALAAAAAANAAQAAAILhA+hG5jMDpxvhgIAOw==);
-  background-repeat: no-repeat;
-  background-position: 97% center;
-  padding: 1px 5px 0 8px !important;
-  height: auto;
-  font-size: .875em
+  background-repeat: no-repeat !important;
+  background-position: 97% center !important;
+  padding: 1px 5px 0 8px !important !important;
+  height: auto !important;
+  font-size: .875em  !important;
 }
-
-input.field.text{
-    -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-background-clip: padding;
-  -moz-background-clip: padding;
-  background-clip: padding-box;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  -ms-border-radius: 10px;
-  -o-border-radius: 10px;
-  border-radius: 10px;
-  -webkit-appearance: none;
-  background-color: #fff;
-  color: #000;
-  outline: 0;
-  margin: 0;
-  padding: 0;
-  text-align: left;
-  font-size: 1em;
-  height: 1em;
-  vertical-align: middle;
-  padding: 10px;
+input.field.text {
+  -webkit-box-sizing: border-box !important;
+  -moz-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+  -webkit-background-clip: padding !important;
+  -moz-background-clip: padding !important;
+  background-clip: padding-box !important;
+  -webkit-border-radius: 10px !important;
+  -moz-border-radius: 10px !important;
+  -ms-border-radius: 10px !important;
+  -o-border-radius: 10px !important;
+  border-radius: 10px !important;
+  -webkit-appearance: none !important;
+  background-color: #fff !important;
+  color: #000 !important;
+  outline: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: left !important;
+  font-size: 1em !important;
+  height: 1em !important;
+  vertical-align: middle !important;
+  padding: 10px !important;
 }
-textarea, 
-.textarea{
-   -webkit-box-sizing: border-box !important;
+textarea,
+.textarea {
+  -webkit-box-sizing: border-box !important;
   -moz-box-sizing: border-box !important;
   box-sizing: border-box !important;
   -webkit-background-clip: padding !important;
@@ -93,25 +89,25 @@ textarea,
   -ms-border-radius: 15px !important;
   -o-border-radius: 15px !important;
   border-radius: 15px !important;
-    padding:10px !important;
+  padding: 10px !important;
 }
-
-input[type="radio"]{
-  padding: 10px;
+input[type="radio"] {
+  padding: 10px !important;
 }
-
-button, .button,
+button,
+.button,
 input[type="submit"] {
-  background: #dddddd;
-  border-color: #c4c4c4;
-  border: thin solid;
-  padding: 10px;
-  border-radius: 10px;
+  background: #dddddd !important;
+  border-color: #c4c4c4 !important;
+  border: thin solid !important;
+  padding: 10px !important;
+  border-radius: 10px !important;
 }
-button:focus, .button:focus,
+button:focus,
+.button:focus,
 input[type="submit"]:focus {
-  outline: none;
-  background: #aaaaaa;
-  border-color: #444444;
-  color: white;
+  outline: none !important;
+  background: #aaaaaa !important;
+  border-color: #444444 !important;
+  color: white !important;
 }
