@@ -37,7 +37,7 @@ input[type="week"] {
   margin: 0 !important;
   padding: 0 !important;
   text-align: left !important;
-  font-size: 1em !important;
+  font-size: 1em;
   height: 1em !important;
   vertical-align: middle !important;
   padding: 10px !important;
@@ -48,9 +48,9 @@ select {
   background: #fff url(data:image/png;base64,R0lGODlhDQAEAIAAAAAAAP8A/yH5BAEHAAEALAAAAAANAAQAAAILhA+hG5jMDpxvhgIAOw==);
   background-repeat: no-repeat !important;
   background-position: 97% center !important;
-  padding: 1px 5px 0 8px !important !important;
+  padding: 0 5px 0 8px !important;
   height: auto !important;
-  font-size: .875em  !important;
+  font-size: 100%  !important;
 }
 input.field.text {
   -webkit-box-sizing: border-box !important;
