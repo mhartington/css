@@ -94,8 +94,7 @@ input[type="radio"] {
 }
 button,
 .button,
-input[type="submit"],
-.safari input.btTxt{
+input[type="submit"] {
   background: #dddddd !important;
   border-color: #c4c4c4 !important;
   border: thin solid !important;
@@ -119,4 +118,8 @@ input[type="submit"]:focus {
 form li div label, form li span label,
 form li div label, form li span label{
   font-size: 11px !important; 
+}
+
+.safari input.btTxt {
+  font-size: 14px !important;  
 }
