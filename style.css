@@ -100,6 +100,7 @@ input[type="submit"] {
   border: thin solid !important;
   padding: 10px !important;
   border-radius: 10px !important;
+  font-size: 14px !important;
 }
 button:focus,
 .button:focus,
@@ -108,6 +109,7 @@ input[type="submit"]:focus {
   background: #aaaaaa !important;
   border-color: #444444 !important;
   color: white !important;
+  font-size: 14px !important;
 }
 .safari select.select{
   font-size:100% !important;
