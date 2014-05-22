@@ -111,3 +111,6 @@ input[type="submit"]:focus {
   border-color: #444444 !important;
   color: white !important;
 }
+.safari select.select{
+  font-size:100% !important;
+}
