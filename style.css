@@ -25,11 +25,11 @@ input[type="week"] {
   -webkit-background-clip: padding !important;
   -moz-background-clip: padding !important;
   background-clip: padding-box !important;
-  -webkit-border-radius: 10px !important;
-  -moz-border-radius: 10px !important;
-  -ms-border-radius: 10px !important;
-  -o-border-radius: 10px !important;
-  border-radius: 10px !important;
+  -webkit-border-radius:5px !important;
+  -moz-border-radius: 5px !important;
+  -ms-border-radius:5px !important;
+  -o-border-radius:5px !important;
+  border-radius:5px !important;
   -webkit-appearance: none !important;
   background-color: #fff !important;
   color: #000 !important;
@@ -58,11 +58,11 @@ input.field.text {
   -webkit-background-clip: padding !important;
   -moz-background-clip: padding !important;
   background-clip: padding-box !important;
-  -webkit-border-radius: 10px !important;
-  -moz-border-radius: 10px !important;
-  -ms-border-radius: 10px !important;
-  -o-border-radius: 10px !important;
-  border-radius: 10px !important;
+  -webkit-border-radius: 5px !important;
+  -moz-border-radius: 5px !important;
+  -ms-border-radius: 5px !important;
+  -o-border-radius: 5px !important;
+  border-radius: 5px !important;
   -webkit-appearance: none !important;
   background-color: #fff !important;
   color: #000 !important;
@@ -82,11 +82,11 @@ textarea,
   -webkit-background-clip: padding !important;
   -moz-background-clip: padding !important;
   background-clip: padding-box !important;
-  -webkit-border-radius: 15px !important;
-  -moz-border-radius: 15px !important;
-  -ms-border-radius: 15px !important;
-  -o-border-radius: 15px !important;
-  border-radius: 15px !important;
+  -webkit-border-radius: 5px !important;
+  -moz-border-radius: 5px !important;
+  -ms-border-radius: 5px !important;
+  -o-border-radius: 5px !important;
+  border-radius: 5px !important;
   padding: 10px !important;
 }
 input[type="radio"] {
